@@ -1,4 +1,6 @@
 TDEWPc1::Application.routes.draw do
+  resources :roles
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
